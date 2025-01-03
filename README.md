@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 👯 I’m looking to collaborate on **Cross platform appns**
+- 👯 I’m looking to collaborate on **Cross platform apps**
 
 - 👨‍💻 Catch me on LinkedIn at [www.linkedin.com/in/cameron-tome-moreira](www.linkedin.com/in/cameron-tome-moreira)
 
