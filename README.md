@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cameron Tomé-Moreira</h1>
 <h3 align="center">I am an ambitious software dev from Canada</h3>
 
-- 🔭 I’m currently working on **a budgeting and investment app!**
+- 🔭 I’m currently working on **Building a Transformer!**
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **Machine Learning, Neural Networks**
 
-- 👯 I’m looking to collaborate on **Cross platform apps**
+- 👯 I’m looking to collaborate on **AI Safety work (policy/governance focused)**
 
 - 👨‍💻 Catch me on LinkedIn at [www.linkedin.com/in/cameron-tome-moreira](www.linkedin.com/in/cameron-tome-moreira)
 
-- 💬 Ask me about **Java and SQL**
+- 💬 Ask me about **AI!**
 
 - 📫 How to reach me **ctm313@gmail.com**
 
